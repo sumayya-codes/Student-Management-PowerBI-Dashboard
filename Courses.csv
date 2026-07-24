@@ -1,0 +1,28 @@
+CourseID,CourseName,Department,Credits,Instructor
+C101,Intro to Programming,Computer Science,3,prof. butt
+C102,Data Structures,Computer Science,3,Dr. Raza
+C103,Database Systems,Computer Science,3,Dr. Sheikh
+C104,Web Development,Computer Science,3,Dr. Butt
+C105,AI Fundamentals,Computer Science,3,Dr. Hussain
+C106,Principles of Management,Business Administration,4,Dr. Ahmed
+C107,Marketing 101,Business Administration,3,Dr. Malik
+C108,Business Ethics,Business Administration,4,Dr. Abbasi
+C109,Organizational Behavior,Business Administration,3,Dr. Hussain
+C110,Circuit Analysis,Electrical Engineering,3,Dr. Javed
+C111,Digital Logic Design,Electrical Engineering,3,Dr. Chaudhry
+C112,Signals and Systems,Electrical Engineering,3,prof. shah
+C113,Calculus I,Mathematics,4,Dr. Baig
+C114,Linear Algebra,Mathematics,4,Dr. Farooq
+C115,Statistics,Mathematics,4,Dr. Raza
+C116,Intro to Psychology,Psychology,3,Dr. Ali
+C117,Cognitive Psychology,Psychology,4,Dr. Siddiqui
+C118,Developmental Psychology,Psychology,3,Dr. Aslam
+C119,British Literature,English Literature,3,Dr. Butt
+C120,Creative Writing,English Literature,4,Dr. Shah
+C121,Modern Poetry,English Literature,3,Dr. Butt
+C122,Mechanics,Physics,3,Dr. Chaudhry
+C123,Electromagnetism,Physics,3,Dr. Yousaf
+C124,Modern Physics,Physics,3,Dr. Mirza
+C125,Financial Accounting,Accounting & Finance,3,prof. chaudhry
+C126,Corporate Finance,Accounting & Finance,4,Dr. Siddiqui
+C127,Auditing,Accounting & Finance,3,Dr. Sheikh

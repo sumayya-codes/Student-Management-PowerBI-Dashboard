@@ -1,0 +1,233 @@
+StudentID,StudentName,Age,Department,City,Email,Phone,EnrollmentDate,Status,GPA
+STU1076,HASSAN HUSSAIN,20.0,Elec. Eng,Rawalpindi,hassan.hussain123@gmail.com,+9203223167376,2021/10/21,In Active,3.65
+STU1096,Sara  Aslam,18.0,Elec. Eng,Multan,sara.aslam82@GMAIL.com,,08-Dec-2019,In Active,3.32
+STU1037,Waseem Chaudhry,21.0,PHY,Lahore,waseem.chaudhry984@GMAIL.com,+9203903566765,2023/02/11,inactive,3.8
+STU1167, Amna Sheikh ,23.0,english literature,Faisalabad,amna.sheikh767@yahoo.com,+9203272454383,2023-03-22,Graduated,2.57
+STU1197,imran baig,18.0,Maths,LAHORE,imran.baig155@gmail.com,+9203697945543,2022-02-07,Graduated,2.55
+STU1032,Rizwan  Aslam,20.0,MATHEMATICS,Faisalabad,,+9203437783308,18-Sep-2023,ACTIVE,2.84
+STU1201, Fatima Shah ,21.0,electrical engineering,Karachi,fatima.shah911@GMAIL.com,03388390253,02-11-2019,inactive,3.61
+STU1211,Komal  Mirza,22.0,business administration,Faisalabad,,+9203521907009,02-15-2020,Graduated,3.73
+STU1184, Ali Javed ,19.0,Elec. Eng,Faisalabad,ali.javed282@GMAIL.com,03795009888,18-Oct-2021, Active,1.72
+STU1002, Hassan Abbasi ,20.0,MATHEMATICS,LAHORE,hassan.abbasi829@gmail.com,03465341213,15/11/2019,In Active,2.45
+STU1166,Bilal Qureshi,23.0,MATHEMATICS,Lahore,bilal.qureshi826@gmail.com,,04/05/2023,ACTIVE,2.91
+STU1139,Junaid Sheikh,22.0,accounting & finance,Multan,junaid.sheikh879@gmail.com,,2020-07-09,active,2.2
+STU1190,rabia yousaf,20.0,Math,Peshawar,rabia.yousaf752@GMAIL.com,,2023/10/09,Active,2.3
+STU1224,Waseem Iqbal ,18.0,Eng Lit,Islamabad,waseem.iqbal393@GMAIL.com,,2023/01/30, Active,3.72
+STU1208,JUNAID HUSSAIN,,EE,Karachi,,0384-6361758,04-Sep-2022,inactive,2.55
+STU1074, Kashif Aslam ,20.0,English Literature,Multan,kashif.aslam739@GMAIL.com,0399-2425342,2022-10-12,inactive,2.56
+STU1137,Rabia Aslam,22.0,Computer  Science,Rawalpindi,rabia.aslam294@gmail.com,+9203222795437,08/05/2020, Active,2.39
+STU1055,sara qureshi,23.0,english literature,Peshawar,sara.qureshi83@GMAIL.com,,2023/11/22,Active,2.09
+STU1193,NADIA MIRZA,,electrical engineering,Lahore,nadia.mirza867@gmail.com,0337-1336852,01/12/2020,Graduated,1.69
+STU1042,ALI ABBASI,22.0,Psychology,Karachi,ali.abbasi300@yahoo.com,03716396766,19-Aug-2021,graduated,3.91
+STU1070, Imran Iqbal ,21.0,Eng Lit,Peshawar,imran.iqbal748@gmail.com,+9203405276341,07-Nov-2022,active,1.71
+STU1140,Rabia Mirza,19.0,Elec. Eng,Karachi,rabia.mirza602@yahoo.com,+9203096021033,06-Mar-2022, Active,3.39
+STU1100, Imran Sheikh ,23.0,Business Admin,Multan,imran.sheikh67@GMAIL.com,03952225000,07/11/2021,active,3.48
+STU1036, Anum Javed ,23.0,Mathematics,LAHORE,anum.javed851@yahoo.com,0313-6059717,2020/12/12,Graduated,1.67
+STU1131,Sana  Abbasi,20.0,electrical engineering,Faisalabad,sana.abbasi209@GMAIL.com,+9203577225647,04-16-2019,Graduated,3.01
+STU1030,Waseem  Shah,21.0,Acc & Fin,Rawalpindi,waseem.shah80@GMAIL.com,0330-5558623,11/10/2019,Inactive,1.88
+STU1011,Zainab Khan,18.0,CS,Lahore,zainab.khan881@GMAIL.com,,2020/03/14,ACTIVE,3.71
+STU1151,nadia malik,,Physics,Lahore,nadia.malik964@yahoo.com,+9203438639213,03-Dec-2021,In Active,2.6
+STU1040, Nadia Qureshi ,19.0,Computer Science,Rawalpindi,nadia.qureshi415@yahoo.com,,2023/03/08,In Active,2.63
+STU1175,WASEEM ASLAM,23.0,English Literature,Peshawar,waseem.aslam328@GMAIL.com,0309-7254683,03/01/2020, Active,3.89
+STU1057, Zainab Siddiqui ,18.0,EE,Islamabad,,,07-30-2022,graduated,1.52
+STU1160,Hassan Raza,22.0,english literature,Rawalpindi,hassan.raza552@yahoo.com,0341-5909595,05-Oct-2019,Active,3.67
+STU1049, Fatima Chaudhry ,,Accounting and Finance,Peshawar,fatima.chaudhry779@gmail.com,0358-2477398,02-May-2023, Active,1.5
+STU1035,BILAL IQBAL,19.0,Accounting & Finance,LAHORE,bilal.iqbal477@GMAIL.com,+9203212921542,2020-09-29,Active,2.94
+STU1052,NADIA QURESHI,19.0,Acc & Fin,Peshawar,nadia.qureshi944@yahoo.com,03464938258,2023-08-08,inactive,3.59
+STU1103,junaid iqbal,19.0,Psychology,Rawalpindi,junaid.iqbal651@GMAIL.com,+9203789950276,2022/04/27,ACTIVE,3.06
+STU1019,IQRA ABBASI,19.0,Psych,LAHORE,iqra.abbasi735@GMAIL.com,0326-5428914,09-Jul-2019,inactive,
+STU1091,Nadia  Yousaf,19.0,Computer  Science,LAHORE,nadia.yousaf736@yahoo.com,,2020-01-19, Active,1.67
+STU1084,SADIA JAVED,21.0,Business Admin,karachi,sadia.javed659@GMAIL.com,03645985356,02-07-2019,inactive,2.04
+STU1069,BILAL ALI,22.0,psychology ,LAHORE,bilal.ali730@GMAIL.com,,2019-07-23, Active,2.04
+STU1073,Amna Abbasi,20.0,Psychology,Islamabad,amna.abbasi720@GMAIL.com,,23/05/2019,Active,2.83
+STU1075, Amna Baig ,18.0,Psychology,karachi,,03665791188,04/04/2019,Graduated,1.64
+STU1136, Adeel Khan ,23.0,EE,Lahore,adeel.khan155@gmail.com,,12-Sep-2022,Active,
+STU1203,Shahid  Ahmed,23.0,Electrical Engineering,Rawalpindi,,+9203721485669,28/11/2023,Active,2.64
+STU1068,Tariq  Iqbal,21.0,Computer  Science,Rawalpindi,tariq.iqbal659@gmail.com,0307-9035982,01-Oct-2021,active,2.31
+STU1147,NADIA MIRZA,,Eng Lit,Rawalpindi,,+9203724352088,2022/10/28,Active,2.65
+STU1095,komal chaudhry,21.0,Business Admin,Peshawar,,,2021/01/22,inactive,3.32
+STU1171,Bilal Shah,19.0,Psychology,karachi,bilal.shah998@yahoo.com,,03/02/2023,Active,3.81
+STU1220, Sadia Chaudhry ,18.0,Business Administration,Karachi,sadia.chaudhry873@yahoo.com,03569992383,2023-12-05,In Active,1.96
+STU1153, Rabia Aslam ,19.0,MATHEMATICS,Islamabad,,,2021-03-07,Inactive,3.38
+STU1066,Hassan  Ali,20.0,Math,Faisalabad,hassan.ali793@yahoo.com,03239577989,24/06/2023,active,1.56
+STU1009,anum farooq,22.0,Mathematics,Faisalabad,anum.farooq970@gmail.com,+9203089937326,20-Sep-2019, Active,2.82
+STU1088,tariq malik,21.0,BBA,Rawalpindi,tariq.malik928@yahoo.com,0355-2538698,2021-04-29,Graduated,2.09
+STU1110,Hassan  Yousaf,18.0,physics,Karachi,hassan.yousaf40@yahoo.com,+9203609712957,2022/05/26,ACTIVE,3.03
+STU1138,Mahnoor Javed,22.0,Eng Lit,Quetta,mahnoor.javed250@yahoo.com,,15-Feb-2021, Active,3.09
+STU1162,Sara  Javed,21.0,psychology ,Multan,,,07-24-2022,active,2.49
+STU1045,Fatima Abbasi,21.0,Electrical Engineering,Peshawar,,03859088046,10-Dec-2022,active,3.81
+STU1202,KOMAL MALIK,,Elec. Eng,Quetta,komal.malik846@GMAIL.com,,08-Mar-2020,graduated,3.67
+STU1063,rizwan abbasi,23.0,Mathematics,Quetta,,,2019-08-26,Inactive,1.84
+STU1150,waseem javed,18.0,Physics,Karachi,waseem.javed265@yahoo.com,03578651079,12-Mar-2021, Active,3.99
+STU1050, Komal Abbasi ,22.0,Physics,Faisalabad,,03318568997,29/01/2022,inactive,3.25
+STU1086,ADEEL YOUSAF,20.0,Accounting & Finance,Peshawar,adeel.yousaf693@yahoo.com,+9203968531761,25-Sep-2020,Inactive,3.87
+STU1060,Sadia Butt,18.0,Comp. Sci,Quetta,sadia.butt594@GMAIL.com,,26/12/2019,ACTIVE,3.69
+STU1169, Mahnoor Iqbal ,21.0,Physics,Faisalabad,mahnoor.iqbal654@gmail.com,,2023/10/29,Graduated,3.21
+STU1056,SADIA HUSSAIN,,business administration,Lahore,sadia.hussain649@gmail.com,0356-3791137,2020-10-26,inactive,2.58
+STU1123,Mariam  Ali,22.0,Business Administration,karachi,mariam.ali208@yahoo.com,+9203668412854,2023/01/08,graduated,2.78
+STU1102, Omar Ali ,,Accounting and Finance,Islamabad,omar.ali799@yahoo.com,0398-3164813,27/11/2021,inactive,2.31
+STU1094,AHMED HUSSAIN,20.0,CS,Karachi,ahmed.hussain956@GMAIL.com,0365-7681090,23/03/2023,inactive,3.45
+STU1210,MAHNOOR ABBASI,19.0,english literature,Lahore,mahnoor.abbasi364@yahoo.com,03499090969,04-14-2022,graduated,2.68
+STU1065,Ayesha  Farooq,20.0,English Literature,Peshawar,ayesha.farooq195@gmail.com,0358-2538024,04-14-2019,Inactive,3.47
+STU1194,rizwan ali,23.0,Accounting & Finance,Peshawar,,+9203126554845,2021/04/18, Active,2.2
+STU1108, Ahmed Hussain ,18.0,Accounting and Finance,karachi,ahmed.hussain868@gmail.com,,2021-01-19,Graduated,2.9
+STU1116,junaid ali,19.0,Accounting and Finance,Quetta,junaid.ali207@GMAIL.com,+9203172832517,2020-05-11, Active,2.08
+STU1120,FAISAL RAZA,20.0,PHY,karachi,,03612662437,2020-05-23,inactive,2.62
+STU1054, Anum Javed ,19.0,electrical engineering,Karachi,anum.javed515@GMAIL.com,0312-8387112,19/01/2023,Graduated,3.92
+STU1209,Kashif  Ahmed,23.0,Maths,Faisalabad,,+9203646036433,2020-08-24,graduated,2.15
+STU1101,Zainab Qureshi,20.0,english literature,LAHORE,zainab.qureshi479@yahoo.com,,12-Dec-2021,Graduated,1.68
+STU1158,AHMED SHAH,22.0,Psychology,Quetta,,03387643522,2022-01-15,graduated,3.97
+STU1119,Imran  Abbasi,21.0,Acc & Fin,karachi,imran.abbasi280@yahoo.com,03796091085,11/01/2023,Active,3.48
+STU1028,Imran  Aslam,21.0,MATHEMATICS,Quetta,imran.aslam250@yahoo.com,,24/03/2020, Active,2.89
+STU1051,Ayesha  Khan,22.0,Math,Rawalpindi,,+9203148741810,10-17-2021, Active,2.54
+STU1228,Mariam  Ali ,22.0,Business Administration,karachi,mariam.ali208@yahoo.com,+9203668412854,2023/01/08,graduated,2.78
+STU1196,Fatima Hussain,,Accounting & Finance,Rawalpindi,,03298514700,19-Dec-2023,In Active,1.61
+STU1026,SADIA JAVED,,Psych,karachi,sadia.javed1@GMAIL.com,,24/06/2021, Active,3.75
+STU1079,tariq raza,19.0,english literature,Islamabad,tariq.raza106@yahoo.com,0332-4309671,29-Dec-2019,graduated,3.4
+STU1033,Anum  Javed,19.0,Computer Science,Peshawar,,+9203337360307,07-20-2021,In Active,2.45
+STU1093,Omar Butt,,english literature,Multan,omar.butt659@yahoo.com,+9203899028420,20/07/2023,active,3.86
+STU1129,SHAHID CHAUDHRY,19.0,Psychology,karachi,shahid.chaudhry424@GMAIL.com,,12-Feb-2022,Active,3.85
+STU1018,usman butt,20.0,BBA,Multan,,03108399996,2022-09-20,ACTIVE,3.72
+STU1178,Sana Qureshi,18.0,Elec. Eng,Lahore,sana.qureshi944@yahoo.com,0366-7929943,2022-04-04, Active,3.55
+STU1022, Iqra Chaudhry ,,Maths,Islamabad,iqra.chaudhry719@gmail.com,,12-17-2020,Inactive,3.15
+STU1006,BILAL SHAH,21.0,Maths,LAHORE,,0346-4679591,2023-03-28,active,1.9
+STU1199, Sana Ali ,20.0,Math,LAHORE,sana.ali328@gmail.com,03692763677,10-21-2023, Active,3.68
+STU1090,sara khan,23.0,Math,karachi,,0314-5833542,03-May-2020,graduated,3.59
+STU1048,Usman Mirza,23.0,electrical engineering,karachi,usman.mirza453@GMAIL.com,,13-Dec-2020,In Active,1.76
+STU1214,WASEEM IQBAL,18.0,Eng Lit,Islamabad,waseem.iqbal393@GMAIL.com,,2023/01/30, Active,3.72
+STU1071,sana malik,22.0,Electrical Engineering,LAHORE,sana.malik576@GMAIL.com,,2023-11-13,inactive,2.38
+STU1038, Adeel Qureshi ,20.0,physics,LAHORE,adeel.qureshi331@yahoo.com,,2022/03/13,Graduated,2.74
+STU1082, Bilal Ahmed ,22.0,Business Admin,Lahore,bilal.ahmed662@yahoo.com,+9203908344365,01-15-2021,inactive,3.44
+STU1046,MAHNOOR MIRZA,19.0,Physics,karachi,mahnoor.mirza664@yahoo.com,03278158234,2022/05/03,inactive,2.67
+STU1182,RABIA ABBASI,,business administration,Lahore,rabia.abbasi813@yahoo.com,+9203074729376,14-Aug-2023,In Active,3.84
+STU1132,KOMAL ALI,,MATHEMATICS,Faisalabad,komal.ali929@GMAIL.com,0338-1257256,10-Mar-2023,Inactive,3.26
+STU1163, Sana Raza ,20.0,Psych,Rawalpindi,sana.raza561@yahoo.com,0372-9142618,06-Jul-2022,Active,3.64
+STU1183,Sara  Mirza,18.0,Psychology,Karachi,,,14/04/2019,Graduated,2.49
+STU1215, Bilal Chaudhry ,,English Literature,Islamabad,bilal.chaudhry414@gmail.com,0329-4763487,2022/04/22,ACTIVE,3.28
+STU1154,Mahnoor  Ali,20.0,BBA,Multan,,03666629680,07-May-2022,Graduated,2.37
+STU1015, Mahnoor Abbasi ,19.0,EE,Rawalpindi,mahnoor.abbasi992@gmail.com,0374-2022698,11-Apr-2022, Active,2.83
+STU1223,Imran Iqbal ,21.0,Eng Lit,Peshawar,imran.iqbal748@gmail.com,+9203405276341,07-Nov-2022,active,1.71
+STU1112,Iqra  Khan,22.0,Accounting and Finance,LAHORE,iqra.khan234@gmail.com,,30/10/2019,Active,3.25
+STU1221,Junaid Iqbal ,19.0,Psychology,Rawalpindi,junaid.iqbal651@GMAIL.com,+9203789950276,2022/04/27,ACTIVE,3.06
+STU1156, Faisal Javed ,23.0,electrical engineering,karachi,faisal.javed942@yahoo.com,+9203625845843,06-Oct-2020,Active,3.88
+STU1213,Sara  Butt,21.0,physics,Peshawar,,03314119421,01-29-2019, Active,3.19
+STU1192,Hassan Iqbal,23.0,Eng Lit,Lahore,hassan.iqbal2@gmail.com,,06-Oct-2021,In Active,1.75
+STU1077,Ahmed Aslam,22.0,Accounting & Finance,Multan,,0390-8007741,27/10/2020,graduated,3.8
+STU1080,Imran  Mirza,19.0,english literature,Multan,imran.mirza451@gmail.com,03955052486,2022-04-26,In Active,2.28
+STU1188,ZAINAB YOUSAF,18.0,Computer  Science,Quetta,zainab.yousaf340@yahoo.com,03961596686,2019-05-02,ACTIVE,3.79
+STU1155,Komal  Baig,22.0,Elec. Eng,LAHORE,komal.baig87@yahoo.com,+9203306123426,03/02/2021, Active,2.99
+STU1161,BILAL BUTT,,Elec. Eng,Faisalabad,,,07-Feb-2021,active,3.7
+STU1059,mariam mirza,20.0,Psychology,Peshawar,mariam.mirza9@gmail.com,03751831074,24/03/2020,inactive,3.3
+STU1109,mariam abbasi,21.0,business administration,karachi,mariam.abbasi783@GMAIL.com,03522950895,06-16-2023, Active,3.39
+STU1205,Rizwan Shah,18.0,Psychology,Peshawar,rizwan.shah167@yahoo.com,,2021-11-17,Active,1.83
+STU1105,zainab javed,19.0,Accounting & Finance,Karachi,,+9203266707484,10-02-2020,In Active,1.83
+STU1007,Sadia  Aslam,22.0,business administration,Peshawar,sadia.aslam480@GMAIL.com,03831980933,04-24-2023,active,1.9
+STU1185, Kashif Butt ,,Math,karachi,,03469403820,03-06-2021,ACTIVE,
+STU1227,Adeel  Shah ,20.0,Maths,Peshawar,adeel.shah165@gmail.com,+9203269064202,2019-01-06,active,3.59
+STU1044, Zainab Siddiqui ,,accounting & finance,Rawalpindi,,+9203782664863,05/07/2022,inactive,1.89
+STU1122,Hira  Farooq,21.0,Math,Islamabad,,+9203538899184,10/04/2023,active,2.82
+STU1117,ayesha aslam,18.0,Accounting & Finance,Islamabad,ayesha.aslam988@yahoo.com,03911653317,10-19-2020,Active,1.72
+STU1053,FAISAL QURESHI,20.0,accounting & finance,Multan,,,23-Apr-2020,Active,2.68
+STU1078,Sara Aslam,21.0,MATHEMATICS,LAHORE,sara.aslam537@gmail.com,03337911187,15/05/2023,active,1.79
+STU1024,amna aslam,22.0,Eng Lit,LAHORE,,,2019/01/04, Active,3.85
+STU1001,Waseem Malik,19.0,Psychology,Faisalabad,waseem.malik755@gmail.com,0386-2458591,11/07/2019,Inactive,1.57
+STU1010,AMNA ASLAM,23.0,Maths,Peshawar,amna.aslam666@GMAIL.com,+9203573030113,05-12-2019,Active,2.08
+STU1204,ANUM FAROOQ,22.0,Psych,Quetta,anum.farooq407@gmail.com,,30-Dec-2019, Active,1.91
+STU1149,Amna  Qureshi,,physics,karachi,,+9203462425760,09-08-2022,ACTIVE,1.61
+STU1225,Usman Iqbal ,22.0,CS,Quetta,usman.iqbal397@gmail.com,03330393232,22-Nov-2022,Inactive,3.63
+STU1005,imran javed,19.0,Maths,Karachi,imran.javed842@gmail.com,03326541099,11-Mar-2020,Graduated,3.11
+STU1142,KASHIF ASLAM,20.0,Physics,LAHORE,kashif.aslam818@yahoo.com,,28/12/2022,Graduated,1.77
+STU1031, Hassan Ali ,21.0,PHY,karachi,hassan.ali426@gmail.com,,2021-09-03,In Active,2.47
+STU1198,Rabia  Qureshi,18.0,MATHEMATICS,Rawalpindi,rabia.qureshi405@gmail.com,,21/12/2019,Inactive,1.82
+STU1144, Mahnoor Chaudhry ,21.0,Comp. Sci,Peshawar,mahnoor.chaudhry798@gmail.com,,14/12/2019,inactive,2.73
+STU1128,KOMAL AHMED,19.0,computer science ,Quetta,komal.ahmed553@yahoo.com,+9203179453969,2023/07/29,In Active,3.43
+STU1023,kashif chaudhry,23.0,Business Admin,Multan,,03223847257,2020/01/01,inactive,
+STU1115,HIRA HUSSAIN,20.0,Accounting and Finance,Quetta,hira.hussain574@GMAIL.com,03523625992,03/05/2023,inactive,
+STU1114,Sadia  Qureshi,21.0,PHY,Islamabad,sadia.qureshi935@GMAIL.com,,29/01/2020,inactive,2.06
+STU1118,Faisal  Iqbal,,CS,Peshawar,faisal.iqbal181@gmail.com,0350-9311162,2020/09/03,active,2.34
+STU1021,Hira Farooq,23.0,English Literature,Faisalabad,hira.farooq106@GMAIL.com,+9203793592974,27/06/2023,Graduated,
+STU1061,Mariam  Siddiqui,,Psychology,Rawalpindi,,+9203148857296,25/03/2023,Graduated,3.51
+STU1104,rizwan yousaf,18.0,Computer Science,Lahore,rizwan.yousaf972@GMAIL.com,0383-4536777,2021/10/16,inactive,2.26
+STU1097,Anum  Farooq,18.0,PHY,Karachi,,+9203953684131,2023/10/05,graduated,
+STU1141,Bilal  Ali,21.0,English Literature,Lahore,bilal.ali238@gmail.com,03131810311,24-May-2023,graduated,2.88
+STU1189,Adeel  Malik,23.0,English Literature,Multan,,+9203436062779,19-Nov-2019,graduated,1.94
+STU1164,Imran Baig,23.0,Physics,Islamabad,imran.baig310@yahoo.com,0335-2565985,31/01/2021,Active,2.26
+STU1013,KOMAL MALIK,21.0,Math,karachi,,,2023/07/13,active,4.0
+STU1072,FAISAL SIDDIQUI,,electrical engineering,Faisalabad,faisal.siddiqui111@GMAIL.com,+9203145673599,12-Jul-2023, Active,3.55
+STU1085,ADEEL QURESHI,18.0,Math,Islamabad,adeel.qureshi303@gmail.com,+9203046649968,08-May-2022,ACTIVE,3.58
+STU1062, Mariam Ali ,18.0,Comp. Sci,karachi,mariam.ali466@GMAIL.com,03983063850,10/08/2019,graduated,
+STU1083,Sadia Yousaf,18.0,English Literature,Multan,,0336-5227787,08/04/2022,In Active,3.14
+STU1126,KOMAL ABBASI,22.0,English Literature,Islamabad,komal.abbasi403@yahoo.com,,2022/10/11,Graduated,3.56
+STU1020,omar butt,23.0,electrical engineering,karachi,omar.butt438@gmail.com,0314-2262382,09-06-2023, Active,1.82
+STU1043,Usman Qureshi,18.0,business administration,Quetta,usman.qureshi591@gmail.com,+9203726097514,2019/08/31,Graduated,3.48
+STU1127,zainab baig,23.0,Elec. Eng,Faisalabad,zainab.baig784@gmail.com,+9203781262492,2019-05-18,Active,3.18
+STU1121,usman chaudhry,23.0,Comp. Sci,Multan,usman.chaudhry242@gmail.com,,2022/11/06,inactive,3.1
+STU1130,Sadia  Javed,21.0,english literature,Peshawar,sadia.javed153@GMAIL.com,+9203968944327,07/09/2020,graduated,2.91
+STU1226,Iqra Abbasi ,18.0,Electrical Engineering,Peshawar,iqra.abbasi239@GMAIL.com,,10-05-2023,active,3.96
+STU1173,Iqra Malik,22.0,Eng Lit,Rawalpindi,iqra.malik66@GMAIL.com,03648447868,24-Apr-2019,ACTIVE,2.14
+STU1003,Mariam  Farooq,22.0,Psychology,Quetta,,+9203807067228,2022-12-13,Active,3.43
+STU1014,Shahid Khan,21.0,Math,Peshawar,shahid.khan493@yahoo.com,,27-Jun-2020,inactive,3.89
+STU1212,imran butt,20.0,Electrical Engineering,Quetta,imran.butt647@yahoo.com,+9203008584194,08/04/2023,ACTIVE,3.41
+STU1143, Ali Hussain ,19.0,Eng Lit,Lahore,ali.hussain90@yahoo.com,0355-8530347,2019-02-23,In Active,2.99
+STU1039, Omar Sheikh ,20.0,Maths,Rawalpindi,omar.sheikh287@GMAIL.com,+9203664205394,14-Jan-2023,graduated,2.1
+STU1099,Usman Iqbal,22.0,CS,Quetta,usman.iqbal397@gmail.com,03330393232,22-Nov-2022,Inactive,3.63
+STU1165, Junaid Iqbal ,19.0,Business Administration,Karachi,junaid.iqbal489@gmail.com,0316-4794852,11-25-2022,active,2.56
+STU1195,Zainab Malik,,physics,karachi,zainab.malik503@yahoo.com,03194090232,2023/08/15,graduated,1.56
+STU1230,Ahmed Hussain ,18.0,Accounting and Finance,karachi,ahmed.hussain868@gmail.com,,2021-01-19,Graduated,2.9
+STU1089,SARA FAROOQ,,Comp. Sci,Lahore,sara.farooq732@GMAIL.com,,26/11/2022,graduated,1.51
+STU1207,Amna  Javed,23.0,Business Administration,karachi,amna.javed990@GMAIL.com,0371-5742531,11-19-2020,In Active,2.15
+STU1064,Imran  Farooq,21.0,physics,Islamabad,imran.farooq671@gmail.com,03841183219,20-Mar-2020,graduated,3.64
+STU1170,Adeel Qureshi,18.0,Computer  Science,Lahore,adeel.qureshi269@yahoo.com,,17-May-2021,active,2.84
+STU1111,Fatima  Javed,22.0,psychology ,Multan,,03495521185,2022-10-11,Graduated,3.49
+STU1025,iqra raza,22.0,Physics,Multan,iqra.raza322@gmail.com,,30-Oct-2020,inactive,1.98
+STU1159,ayesha iqbal,20.0,computer science ,Rawalpindi,ayesha.iqbal883@gmail.com,03325354965,2023/10/30,Graduated,1.85
+STU1180,Adeel Mirza,21.0,Electrical Engineering,Islamabad,adeel.mirza478@GMAIL.com,+9203687011065,07-14-2021,graduated,1.8
+STU1177,IQRA ABBASI,18.0,Electrical Engineering,Peshawar,iqra.abbasi239@GMAIL.com,,10-05-2023,active,3.96
+STU1134,Sana  Ahmed,20.0,Math,Karachi,,,12/03/2022,graduated,3.86
+STU1133,Kashif  Iqbal,21.0,Eng Lit,Peshawar,kashif.iqbal547@GMAIL.com,,21-Jul-2019,In Active,2.43
+STU1087,imran baig,21.0,physics,karachi,imran.baig990@yahoo.com,,11-26-2023, Active,3.28
+STU1172,Ayesha  Baig,18.0,Comp. Sci,Islamabad,ayesha.baig13@yahoo.com,03472271797,12-08-2019,ACTIVE,3.68
+STU1058,mahnoor baig,20.0,Electrical Engineering,Quetta,mahnoor.baig602@GMAIL.com,03590523712,12-Feb-2020,graduated,2.45
+STU1145, Sara Sheikh ,21.0,Psych,Rawalpindi,sara.sheikh802@gmail.com,+9203319318184,2021-07-26,ACTIVE,3.87
+STU1229,Rizwan Shah ,18.0,Psychology,Peshawar,rizwan.shah167@yahoo.com,,2021-11-17,Active,1.83
+STU1148, Junaid Raza ,,psychology ,Lahore,,03359868249,10/09/2022,Graduated,1.68
+STU1191,MAHNOOR YOUSAF,20.0,business administration,Islamabad,mahnoor.yousaf764@gmail.com,0330-6818508,08-10-2023,graduated,
+STU1135, Omar Shah ,23.0,accounting & finance,Islamabad,omar.shah815@GMAIL.com,0321-3348114,2021-12-09,active,3.17
+STU1219,SADIA QURESHI,20.0,Business Administration,Lahore,sadia.qureshi660@yahoo.com,0358-5966428,24/07/2023,Active,2.4
+STU1181,Fatima  Hussain,19.0,CS,Multan,fatima.hussain94@yahoo.com,03827120114,16/06/2020,Active,3.64
+STU1004,Sara Iqbal,23.0,PHY,Quetta,sara.iqbal855@GMAIL.com,03819595113,2022-12-08,ACTIVE,2.11
+STU1081,Imran Ahmed,23.0,Eng Lit,Lahore,imran.ahmed885@gmail.com,0378-9507186,2021/07/10,Inactive,2.69
+STU1168,MAHNOOR BUTT,19.0,psychology ,Lahore,mahnoor.butt567@GMAIL.com,+9203846060836,12-Mar-2023,inactive,3.46
+STU1067,ALI FAROOQ,20.0,English Literature,Islamabad,ali.farooq54@yahoo.com,0394-8062546,02-Sep-2021,In Active,1.77
+STU1017,OMAR SHAH,21.0,English Literature,Rawalpindi,omar.shah135@GMAIL.com,,2022/06/26,active,2.03
+STU1012,FAISAL QURESHI,18.0,accounting & finance,Faisalabad,,0345-8106470,2022-10-11,Active,2.35
+STU1218,Adeel  Shah,20.0,Maths,Peshawar,adeel.shah165@gmail.com,+9203269064202,2019-01-06,active,3.59
+STU1106,Mariam  Siddiqui,21.0,Business Admin,Faisalabad,mariam.siddiqui126@GMAIL.com,03154337019,2021/02/25,Graduated,3.66
+STU1232,Usman Qureshi ,18.0,business administration,Quetta,usman.qureshi591@gmail.com,+9203726097514,2019/08/31,Graduated,3.48
+STU1125,Mariam  Ali,18.0,Computer Science,Quetta,,,07-Jul-2021,Graduated,3.91
+STU1222,Ayesha Aslam ,18.0,Accounting & Finance,Islamabad,ayesha.aslam988@yahoo.com,03911653317,10-19-2020,Active,1.72
+STU1231,Amna Sheikh ,23.0,english literature,Faisalabad,amna.sheikh767@yahoo.com,+9203272454383,2023-03-22,Graduated,2.57
+STU1187,KOMAL SHEIKH,22.0,Maths,Multan,komal.sheikh29@GMAIL.com,,01-15-2022,ACTIVE,1.73
+STU1176,sara baig,22.0,Psych,Lahore,sara.baig468@gmail.com,+9203376098752,08-08-2021,graduated,3.44
+STU1008,Ali  Shah,,Electrical Engineering,Rawalpindi,ali.shah655@yahoo.com,0319-7273233,05-11-2022,graduated,
+STU1216, Mahnoor Ahmed ,18.0,psychology ,LAHORE,mahnoor.ahmed609@gmail.com,0384-2813842,03-May-2021,Graduated,2.13
+STU1092,Tariq  Abbasi,18.0,computer science ,Quetta,,0347-5255545,07/12/2020,active,3.34
+STU1200,Mahnoor  Yousaf,19.0,Physics,Peshawar,mahnoor.yousaf152@gmail.com,,24-Jun-2020,graduated,2.68
+STU1098,sara iqbal,18.0,Eng Lit,LAHORE,sara.iqbal620@yahoo.com,0386-8548448,21/03/2022, Active,2.29
+STU1157,NADIA BUTT,23.0,physics,karachi,,+9203538446596,2019/06/19,Active,2.05
+STU1047,hira javed,22.0,accounting & finance,Lahore,,0394-6407658,2020/04/13,Active,3.18
+STU1113, Hassan Khan ,21.0,Eng Lit,Islamabad,hassan.khan708@yahoo.com,0352-9419134,16/12/2022, Active,2.31
+STU1174,Ayesha Mirza,,Mathematics,Karachi,ayesha.mirza884@gmail.com,+9203607106512,2020-01-02, Active,3.29
+STU1146, Omar Yousaf ,21.0,Eng Lit,Multan,omar.yousaf836@yahoo.com,03614332794,30-Dec-2019,In Active,3.24
+STU1206,Fatima Yousaf,,Maths,LAHORE,fatima.yousaf966@GMAIL.com,,31/05/2020,graduated,2.8
+STU1124, Mahnoor Ahmed ,22.0,electrical engineering,Quetta,,03525146690,2023-07-31,Inactive,1.61
+STU1152,junaid baig,,Business Admin,Karachi,junaid.baig728@gmail.com,+9203822834801,25/02/2023, Active,1.9
+STU1107,Fatima  Chaudhry,21.0,English Literature,Islamabad,,,01-Nov-2021,Inactive,2.38
+STU1027,Mahnoor Sheikh,20.0,psychology ,LAHORE,mahnoor.sheikh96@yahoo.com,0386-6207974,05/04/2019,graduated,3.42
+STU1041,HIRA SHAH,18.0,BBA,Multan,hira.shah761@yahoo.com,03396889215,25/07/2019,inactive,1.95
+STU1217,JUNAID BUTT,23.0,Comp. Sci,Peshawar,junaid.butt104@GMAIL.com,0379-3301222,2020-08-01,active,3.02
+STU1016,Ahmed Siddiqui,18.0,Electrical Engineering,LAHORE,ahmed.siddiqui692@yahoo.com,0351-3011363,2022-06-22,Graduated,2.91
+STU1186,Amna Iqbal,22.0,Psychology,Quetta,amna.iqbal367@yahoo.com,0320-2679975,14/04/2023,Graduated,3.6
+STU1179,Sara  Mirza,19.0,computer science ,Islamabad,sara.mirza299@GMAIL.com,,10/07/2020,active,1.84
+STU1034,adeel aslam,23.0,business administration,Karachi,adeel.aslam553@gmail.com,0344-4761823,2023-03-25,Inactive,1.55
+STU1029, Anum Malik ,22.0,electrical engineering,karachi,anum.malik610@GMAIL.com,,22-Nov-2019,graduated,2.12
