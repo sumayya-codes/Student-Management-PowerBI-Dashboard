@@ -8,7 +8,12 @@ An interactive Power BI dashboard designed to analyze student enrollments, acade
 ![Dashboard Preview](./dashboarddd.PNG)
 
 ## 🖼️ Model Preview
-![Dashboard Preview](abc.PNG)
+![Dashboard Preview](modeling.png)
+
+## 🖼️ Tooltip Preview
+![Dashboard Preview](Tooltip.png)
+
+
 
 ---
 
